@@ -4,7 +4,7 @@ Curso de ecma script 6 do rocketseat
 
 ## Trabalhando com classes, construtores, métodos e herança
 
-class List { 
+class List {  
     constructor(){  
         this.data = [];  
     }  
