@@ -4,6 +4,7 @@ Curso de ecma script 6 do rocketseat
 
 ## Trabalhando com classes, construtores, métodos e herança
 
+```js
 class List {  
     constructor(){  
         this.data = [];  
@@ -30,4 +31,5 @@ document.getElementById('novotodo').onclick = function(){
 }  
   
 MinhaLita.mostraUsuario();  
+```
 
